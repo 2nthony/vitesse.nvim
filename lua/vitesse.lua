@@ -144,7 +144,7 @@ function M.setup(opts)
   Group.new("PreProc", colors.red) -- was orange
   Group.new("Special", colors.property) -- was red
   Group.new("SpecialKey", colors.property)
-  Group.new("Underlined", colors.purple6)
+  Group.new("Underlined", colors.red)
   Group.new("Strikethrough", colors.activeBackground, colors.none, styles.strikethrough)
   Group.new("Ignore", colors.activeBackground)
   Group.new("Error", colors.red)
