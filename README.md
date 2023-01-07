@@ -1,4 +1,17 @@
-# vitesse.nvim
+<h1 align="center">Vitesse colorscheme for NeoVIM</h1>
+
+![](https://cdn.jsdelivr.net/gh/2nthony/statics@main/uPic/0sM65PKGbSg6.png)
+
+<p align="center">
+  <sub>
+    <samp>
+      <a href="https://iterm2.com/">iTerm 2</a> •
+      <a href="https://www.nerdfonts.com/">Hack Nerd Font</a>
+    </samp>
+  </sub>
+</p>
+
+## Notice
 
 **This colorscheme may not perfect because I do not know Vim configurations, I only forked [srvana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) and change the colors.**
 
