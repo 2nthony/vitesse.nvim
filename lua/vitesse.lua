@@ -219,7 +219,7 @@ function M.setup(opts)
   Group.new("TabLineSel", colors.yellow, colors.bg)
   Group.new("TabLineSeparatorSel", colors.cyan, colors.none)
 
-  Group.new("LineNr", colors.ignored, bg_color, styles.NONE)
+  Group.new("LineNr", colors.ignored:light():light(), bg_color, styles.NONE)
   Group.new("CursorLine", colors.none, colors.lowActiveBackground, styles.NONE)
   Group.new("CursorLineNr", colors.activeForeground, colors.none, styles.NONE)
   Group.new("Cursor", colors.black3, colors.secondaryForeground, styles.NONE)
