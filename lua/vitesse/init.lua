@@ -282,7 +282,7 @@ function M.load()
   -- j-hui/fidget
   require("vitesse.plugins.fidget")
 
-  require("vitesse.plugins.indent")
+  require("vitesse.plugins.indent-blankline")
   -- folke/which-key.nvim
   require("vitesse.plugins.which-key")
   -- folke/noice.nvim
